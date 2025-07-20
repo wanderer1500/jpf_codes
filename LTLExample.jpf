@@ -1,0 +1,5 @@
+target=LTLExample
+classpath=.
+
+listener=gov.nasa.jpf.listener.LTLListener
+ltl.property="G (request -> F response)"
